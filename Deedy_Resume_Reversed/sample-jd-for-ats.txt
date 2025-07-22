@@ -1,0 +1,26 @@
+Minimum qualifications:
+
+    Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience.
+    3 years of experience in building data and Artificial Intelligence (AI) solutions and working with technical customers.
+    Experience in designing cloud enterprise solutions and supporting customer projects to completion.
+
+
+Preferred qualifications:
+
+    Experience in working with Large Language Models, data pipelines, and with data analytics, data visualization techniques.
+    Experience with Data Extract, Transform, and Load (ETL) techniques.
+    Experience in Large Language Models (LLMs) to deploy multimodal solutions involving Text, Image, Video and Voice.
+    Knowledge of data warehousing concepts, including data warehouse technical architectures, infrastructure components, Extract, Transform, and Load/Extract, Load and Transform and investigative tools and environments (e.g., Apache Beam, Hadoop, Spark, Pig, Hive, MapReduce, Flume).
+    Knowledge of cloud computing, including virtualization, hosted services, multi-tenant cloud infrastructures, storage systems, and content delivery networks.
+    Excellent communication skills.
+
+About the job
+The Google Cloud Consulting Professional Services team guides customers through the moments that matter most in their cloud journey to help businesses thrive. We help customers transform and evolve their business through the use of Google’s global network, web-scale data centers, and software infrastructure. As part of an innovative team in this rapidly growing business, you will help shape the future of businesses of all sizes and use technology to connect with customers, employees, and partners.
+
+In this role, you will play a role in ensuring that customers have the quality experience moving to the Google Cloud Generative AI (GenAI) and Agentic AI suite of products. You will design and implement solutions for customer use cases, leveraging core Google products. You will work with customers to identify opportunities to transform their business with Generative AI (GenAI), and deliver workshops designed to educate and empower customers to realize the potential of Google Cloud. You will have access to Google’s technology to monitor application performance, debug and troubleshoot product issues, and address customer and partner needs. You will lead the execution of adopting the Google Cloud Platform solutions to the customer.Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+Responsibilities
+
+    Deliver big data and GenAI solutions and solve technical customer tests.
+    Act as a trusted technical advisor to Google’s customers.
+    Identify new product features and feature gaps, provide guidance on existing product tests, and collaborate with Product Managers and Engineers to influence the roadmap of Google Cloud Platform.
+    Deliver best practices recommendations, tutorials, blog articles, and technical presentations adapting to different levels of business and technical stakeholders.
