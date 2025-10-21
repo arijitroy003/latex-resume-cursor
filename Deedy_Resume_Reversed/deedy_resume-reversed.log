@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.21)  22 JUL 2025 22:40
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.21)  21 OCT 2025 18:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -696,14 +696,14 @@ Package fontspec Info:
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/b/n' undefined
-(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 103.
+(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 102.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 103.
+(Font)              <12> on input line 102.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 103.
+(Font)              <8> on input line 102.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 103.
+(Font)              <6> on input line 102.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 109.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -713,6 +713,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 ]
+
+LaTeX Font Warning: Font shape `TU/Raleway-Medium(0)/b/n' undefined
+(Font)              using `TU/Raleway-Medium(0)/m/n' instead on input line 183.
+
+
+
+LaTeX Font Warning: Font shape `TU/Raleway-Medium(0)/b/it' undefined
+(Font)              using `TU/Raleway-Medium(0)/b/n' instead on input line 183.
+
+
+
 
 [2] (./deedy_resume-reversed.aux)
  ***********
@@ -731,12 +742,12 @@ Package rerunfilecheck Info: File `deedy_resume-reversed.out' has not changed.
 (rerunfilecheck)             Checksum: 13225DF582EACEC41413253E746C1E3D;1480.
  ) 
 Here is how much of TeX's memory you used:
- 12828 strings out of 473832
- 254742 string characters out of 5729481
- 725621 words of memory out of 5000000
- 35714 multiletter control sequences out of 15000+600000
- 563225 words of font info for 96 fonts, out of 8000000 for 9000
+ 12834 strings out of 473832
+ 254955 string characters out of 5729481
+ 730621 words of memory out of 5000000
+ 35719 multiletter control sequences out of 15000+600000
+ 563233 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,11n,130p,606b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,130p,630b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on deedy_resume-reversed.pdf (2 pages).
